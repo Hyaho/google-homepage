@@ -1,0 +1,96 @@
+#header{
+	position:absolute;
+	right:0px;
+}
+
+#sign{
+	display:inline-block;
+	color:white;
+	background-color:#4286f4;
+	width:80px;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	border-radius:3px;
+	margin:8px
+}
+
+#logo{
+	position:relative;
+	display:block;
+	margin:auto;
+	top:70px;
+	width:400px;
+	height:200px;
+}
+
+#gs{
+	position:relative;
+	width:130px;
+	height:40px;
+	line-height:40px;
+	left:37%;
+	top:100px;
+}
+
+#ifl{
+	position:relative;
+	width:180px;
+	height:40px;
+	line-height:40px;
+	left:37%;
+	top:100px;
+}
+
+#footer{
+	position:absolute;
+	height:40px;
+	bottom:0px;
+	background-color:lightgray;
+	line-height:40px;
+}
+
+.text{
+	display:inline;
+	color:gray;
+	margin:8px;
+}
+
+.btn{
+	display:inline-block;
+	background-color:lightgray;
+	color:gray;
+	text-align:center;
+	margin:5px;
+}
+
+table{
+	position:relative;
+	display:inline;
+	top:-10px;
+	margin:8px;
+}
+
+td{
+	background-color:gray;
+	height:2px;
+	width:2px;
+}
+
+input{
+	position:relative;
+	display:block;
+	margin:auto;
+	top:70px;
+	height:30px;
+	width:500px;
+}
+
+.btn:hover{
+	border:1px solid gray;
+	color:black;
+}
+
+.text:hover{
+	text-decoration:underline;
+}

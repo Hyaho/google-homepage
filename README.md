@@ -1,1 +1,1 @@
-This is a Google homepage created with HTML and CSS for practice purposes
+This is a Google similar homepage created with HTML and CSS for practice purposes
