@@ -45,7 +45,9 @@
 #footer{
 	position:absolute;
 	height:40px;
-	bottom:0px;
+	bottom:0;
+	left:0;
+	right:0;
 	background-color:lightgray;
 	line-height:40px;
 }
@@ -58,6 +60,7 @@
 
 .btn{
 	display:inline-block;
+	border:1px solid lightgray;
 	background-color:lightgray;
 	color:gray;
 	text-align:center;
@@ -93,4 +96,8 @@ input{
 
 .text:hover{
 	text-decoration:underline;
+}
+
+#asd{
+	float:right;
 }
